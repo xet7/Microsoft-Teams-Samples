@@ -20,7 +20,7 @@
         "build": "node build.js"
     },
     "dependencies": {
-        "botbuilder": "~4.11.0",
+        "botbuilder": "~4.21.4",
         "botbuilder-dialogs": "^4.11.2",
         "cors": "^2.8.5",
         "dotenv": "^8.2.0",
