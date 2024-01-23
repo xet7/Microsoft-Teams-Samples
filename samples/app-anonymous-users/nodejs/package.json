@@ -20,22 +20,22 @@
   "dependencies": {
     "@azure/msal-node": "^1.6.0",
     "@microsoft/microsoft-graph-client": "^2.2.1",
-    "axios": "^0.21.4",
+    "axios": "^1.6.5",
+    "botbuilder": "^4.19.1",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
     "express": "^4.17.1",
     "isomorphic-fetch": "^3.0.0",
-    "socket.io": "^4.4.1",
-    "botbuilder": "^4.19.1"
+    "socket.io": "^4.4.1"
   },
   "devDependencies": {
+    "esbuild": "^0.18.1",
     "eslint": "^7.0.0",
     "eslint-config-standard": "^14.1.1",
     "eslint-plugin-import": "^2.20.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^4.2.1",
     "eslint-plugin-standard": "^4.0.1",
-    "nodemon": "^2.0.13",
-    "esbuild": "^0.18.1"
+    "nodemon": "^2.0.13"
   }
 }
